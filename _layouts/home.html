@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+  <h1 class="page-heading">{{ "Karen's Blog" }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a> | <a href="{{ "/blog/tags" | relative_url }}">All tags</a></p>
+  <ul class="post-list">
+    {%- for post in site.posts -%}
+    <li>
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      <span class="post-meta">{{ post.date | date: date_format }}</span>
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h3>
+
+      {%- if site.show_excerpts -%}
+      {{ post.excerpt }}
+      {%- endif -%}
+      <div class="tags">
+        {% for tag in post.tags %}
+        <a href="{{ "/blog/tags" | relative_url }}#{{tag}}" class="tag"><i class="fas fa-tag"></i> {{ tag }} </a>
+        {% endfor %}
+      </div>
+    </li>
+    {%- endfor -%}
+  </ul>
+
+
+  {%- endif -%}
+
+</div>
