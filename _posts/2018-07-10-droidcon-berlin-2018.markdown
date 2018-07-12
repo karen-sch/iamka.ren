@@ -44,7 +44,7 @@ The promise on the horizon:
 
 ![You never have to say no to your designer any more.]({{ "/assets/designer.png"}})
 
-*"You never have to say no to your designer any more."* (By [Miriam Busch](https://speakerdeck.com/miriambusch/should-we-flutter?slide=16))
+*"You never have to say no to your designer any more."* (Quoted by Miriam Busch in her [presentation](https://speakerdeck.com/miriambusch/should-we-flutter?slide=16), originally by Eugenio Marletti, [probably](https://twitter.com/miphoni/status/1016751149112754176).)
 
 A point that came up in Miriam Busch's talk "Should we flutter?": It's doubtful that there is the same allure from an iOS dev perspective. You would have to trust a competitor's team to ship new and updated imitation widgets for every new iOS version. And you have to hope that Apple doesn't mind these imposters too much.
 Also, maybe a bitter pill for both iOS and Android devs: You have to write your apps in Dart instead of Swift and Kotlin that your teams just learned (to love?).
