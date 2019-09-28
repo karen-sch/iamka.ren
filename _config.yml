@@ -16,7 +16,7 @@
 title: Karen Schwane
 email: hi@iamka.ren
 description: >- # this means to ignore newlines until "baseurl:"
-  Karen Schwane: A software developer based in Cologne, Germany. Mainly working with: Android, Kotlin, Java
+  Karen Schwane: A software developer based in Oslo, Norway. Mainly working with: Android, Kotlin, Java
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://iamka.ren" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hi_i_am_karen
