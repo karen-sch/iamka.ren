@@ -4,16 +4,12 @@ title: About
 avatar: /assets/karen.jpg
 ---
 
-**Hi. I am Karen Schwane.** A software developer living in Oslo, Norway.
+**Hi. I am Karen Schwane.** A software developer in Oslo, Norway.
+
+I'm originally from Germany and moved to Norway in 2019.
 
 My current role is Android developer at [FINN.no](https://finn.no/), Norway's largest marketplace.
 
-I have been developing for Android in some way or another for five years now. <br/>
-Four of these were spent at [TheAppGuys](https://theappguys.de){:target="_blank"}, a mobile agency based in Cologne, Germany.
-
-Before, I was involved in various research projects in the Digital Humanitites field, in backend as well as frontend roles and everything in between.
-
-I have a Master's degree in [Media Culture Studies](http://www.mekuwi.phil-fak.uni-koeln.de/){:target="_blank"} and [Media Computer Science](http://hki.uni-koeln.de/){:target="_blank"} from the University of Cologne.
-
+I have been developing for Android since 2014 but I've also done bits of backend and frontend work here and there. 👩🏼‍💻<br/>
 
 My current tech obsession: [Kotlin](https://kotlinlang.org/){:target="_blank"}! 💜
