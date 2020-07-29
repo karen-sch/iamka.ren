@@ -1,0 +1,6 @@
+---
+layout: link
+title:  "This is a link with a bit of a longer description, check out this link if you want to learn cool things!"
+categories: link-in-bio
+link: https://www.spiegel.de/wissenschaft/medizin/coronavirus-biontech-startet-internationale-impf-studie-mit-bis-zu-30-000-menschen-a-0bfdcf13-cd31-4d57-8b83-82eaa69700b5
+---

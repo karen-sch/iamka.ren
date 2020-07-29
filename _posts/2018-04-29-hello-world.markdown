@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello World!"
 date:   2018-04-29 15:00:00 +0200
-categories: jekyll update
+categories: blog
 tags: en
 ---
 <video autoplay loop>
