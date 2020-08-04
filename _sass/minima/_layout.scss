@@ -315,3 +315,30 @@ a.tag:hover, a.tag:visited, a.tag:active {
     color: #ffffff;
     text-decoration: none;
 }
+
+/**
+* Links in bio
+*/
+
+.links-in-bio-page {
+    text-align: center;
+}
+
+.bio-link {
+  padding: 16px;
+  
+  &:nth-child(1) {
+  margin-top: 32px;
+    @include gradient();
+    border-radius: 2px;
+    .post-meta {
+      color: black;
+    }
+  }
+
+}
+
+.bio-title {
+  text-decoration: underline;
+}
+
