@@ -1,6 +1,0 @@
----
-layout: link
-title:  "Testlink"
-categories: link-in-bio
-link: https://twitter.com
----
