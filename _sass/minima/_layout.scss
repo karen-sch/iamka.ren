@@ -336,6 +336,10 @@ a.tag:hover, a.tag:visited, a.tag:active {
     }
   }
 
+  a {
+  word-break: break-word;
+  }
+
 }
 
 .bio-title {
