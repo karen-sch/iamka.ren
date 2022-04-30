@@ -12,4 +12,4 @@ My current role is Android developer at [FINN.no](https://finn.no/), Norway's la
 
 I have been developing for Android since 2014 but I've also done bits of backend and frontend work here and there. 👩🏼‍💻<br/>
 
-My current tech obsession: [Kotlin](https://kotlinlang.org/){:target="_blank"}! 💜
+My current tech obsession: [Jetpack Compose](https://developer.android.com/jetpack/compose){:target="_blank"}! 💜
