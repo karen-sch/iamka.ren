@@ -8,7 +8,7 @@ avatar: /assets/karen.jpg
 
 I'm originally from Germany and moved to Norway in 2019.
 
-My current role is Android developer at [FINN.no](https://finn.no/), Norway's largest marketplace.
+My current role is Android developer at [Oda](https://oda.com/), where we strive to build the world's most efficient grocery delivery service.
 
 I have been developing for Android since 2014 but I've also done bits of backend and frontend work here and there. 👩🏼‍💻<br/>
 

@@ -5,6 +5,5 @@
   {%- if site.instagram_username -%}<li><a href="https://instagram.com/{{ site.instagram_username| cgi_escape | escape }}" target="_blank"><i class="fab fa-instagram"></i> <span class="username">Instagram</span></a> | </li>{%- endif -%}
   {%- if site.mastodon_profile -%}<li><a rel="me" href="{{ site.mastodon_profile }}" target="_blank"><i class="fab fa-mastodon"></i> <span class="username">Mastodon</span></a> | </li>{%- endif -%}
   {%- if site.linkedin_username -%}<li><a href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}" target="_blank"><i class="fab fa-linkedin"></i> <span class="username">LinkedIn</span></a> | </li>{%- endif -%}
-  {%- if site.email -%}<li><a class="u-email" href="mailto:{{ site.email }}"><i class="far fa-envelope"></i> <span class="username">E-Mail</span></a> | </li>{%- endif -%}
-  <li><a href="/assets/karen_schwane_cv.pdf" target="_blank"><i class="far fa-file-pdf"></i> <span class="username">CV</span></a></li>
+  {%- if site.email -%}<li><a class="u-email" href="mailto:{{ site.email }}"><i class="far fa-envelope"></i> <span class="username">E-Mail</span></a> </li>{%- endif -%}
 </ul>
