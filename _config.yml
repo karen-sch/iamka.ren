@@ -19,10 +19,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   Karen Schwane: A software developer based in Oslo, Norway. Mainly working with: Android, Kotlin, Java
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://iamka.ren" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  karen-sch
+github_username: karen-sch
 linkedin_username: karenschwane
 instagram_username: hi_i_am_karen
-mastodon_profile: https://octodon.social/@hi_i_am_k
+mastodon_profile: https://goblin.technology/@karen
 
 # Build settings
 markdown: kramdown
